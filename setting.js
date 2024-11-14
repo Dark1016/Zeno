@@ -36,9 +36,9 @@ const Styles = (text, style = 1) => {
 };
 
 global.namaowner = "DrayXD"
-global.owner = "6283151568511"
-global.namabot = "Zeno-V6"
-global.botname = "Zeno-V6"
+global.owner = "50931461936"
+global.namabot = "GOD OLYMS"
+global.botname = "GOD OLYMS"
 global.simbol = "⌑"
 global.autoJoin = false
 global.domain = "-"
@@ -48,7 +48,7 @@ global.eggsnya = '15' // id eggs yang dipakai
 global.location = '1' // id location
 global.dray = fs.readFileSync("./database/menu.mp4")
 global.codeInvite = "FwtMxovJqW3Jj55x524hjT"
-global.sessionName = 'drayyy' //Gausah Juga
+global.sessionName = 'sten' //Gausah Juga
 global.save = "drayxd"
 global.keyopenai = `sk-proj-EXdCaNbBfwrOJaqCjcTDT3BlbkFJyFvdbMAMopdT2vaEhuZj`
 global.tekspushkon = ""
